@@ -25,7 +25,7 @@ A simple, interactive, and responsive **Tic-Tac-Toe** game built using **HTML, C
 
 ## 🔗 Live Demo
 
-👉 [Click here to play the game!] 👉 [Demo](https://vel-tic-tac-toe.netlify.app/)
+👉 [Click here to play the game!] 👉 [Demo!!](https://vel-tic-tac-toe.netlify.app/)
 
 ---
 
