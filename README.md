@@ -40,5 +40,5 @@ A simple, interactive, and responsive **Tic-Tac-Toe** game built using **HTML, C
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:Velmaran15/Tic-Tac-Toe-game.git
+   git clone git@github.com:yourUsername/Tic-Tac-Toe-game.git
    cd Tic-Tac-Toe-game
